@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yuweibb.github.io/simeji/</loc>
+    <loc>https://example.com/simeji/</loc>
     <lastmod>2020-08-13T13:41:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yuweibb.github.io/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2020-08-13T13:41:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yuweibb.github.io/categories/</loc>
+    <loc>https://example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://yuweibb.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
   
 </urlset>
